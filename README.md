@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently a intern at [Xitres](https://xitres.nl/over-xitres/).
+- 🔭 I'm currently working at [Xitres](https://xitres.nl/over-xitres/).
 - 🌱 I’m learning how to become a great frontend developer.
 - 🔍 I'm also very interested in backend development and cybersecurity.
 - 📫 How to reach me: [Email](mailto:chrisb190203@gmail.com).
